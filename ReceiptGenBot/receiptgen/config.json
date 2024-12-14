@@ -1,0 +1,166 @@
+{
+  "error_docs": {
+    "value" : {
+      "title": "Price / Shipping / Fee..",
+      "usage": "These values have to be numbers and use only one decimal point, 1.500 will be interpreted as 1.5\nexample: 150.10"
+    },
+    "currency": {
+      "title": "Currency",
+      "usage": "Use only the allowed currency\nexample: €"
+    },
+    "address": {
+      "title": "Shipping / Billing address",
+      "usage": "Keep the address in the format of the field placeholder, if you see 4 lines use 4 lines\n"
+    },
+    "name": {
+      "title": "Name",
+      "usage": "Your name, at least a first name and a last name separated by a space\nexample: Rob Banks"
+    },
+    "email": {
+      "title": "Email",
+      "usage": "Something went wrong while sending your email please contact support"
+    },
+    "date1": {
+      "title": "Date",
+      "usage": "In the format of M/D/YYYY, it will be converted depending on the brand\nexample: 9/11/2001"
+    },
+    "date2": {
+      "title": "Date",
+      "usage": "Different format"
+    },
+    "apple_url": {
+      "title": "Url",
+      "usage": "You entered a wrong url make sure to press buy before copying and use US apple.com\nexample: https://www.apple.com/shop/buy-airpods/airpods-max/space-gray"
+    },
+    "unknown": {
+      "title": "Unknown",
+      "usage": "Wow you caught a very rare error message us to get it resolved"
+    },
+    "image_url": {
+      "title": "Direct image link",
+      "usage": "Make sure the image link works when you put it in your browser, also make sure it is a direct image link\nyou can use this to create your own https://postimages.org/"
+    },
+    "stockx_order_status": {
+      "title": "StockX Order Status",
+      "usage": "Make sure that the status is delivered, ordered or verified"
+    },
+    "stockx_url": {
+      "title": "Url",
+      "usage": "You entered a wrong url make sure to use a valid url from stockx.com by putting it in your browser, the url has to have a product\nexample: https://stockx.com/adidas-predator-elite-ft-fg-vivid-horizon"
+    },
+    "condition": {
+      "title": "Condition",
+      "usage": "Condition has to be New or Used\nexample: new"
+    },
+    "goat_url": {
+      "title": "Url",
+      "usage": "You entered a wrong url make sure to use a valid url from goat.com\nexample: https://www.goat.com/sneakers/air-jordan-1-retro-high-og-summit-white-obsidian-fq2947-100"
+    },
+    "farfetch_url": {
+      "title": "Url",
+      "usage": "You entered a wrong url make sure to use a valid url from farfetch.com\nexample: https://www.farfetch.com/uk/shopping/men/gucci-gg-shadow-wool-jacket-item-24820677.aspx"
+    },
+    "lv_url": {
+      "title": "Url",
+      "usage": "You entered a wrong url make sure to use a valid url from louisvuitton.com\nexample: https://eu.louisvuitton.com/eng-e1/products/lisa-wallet-monogram-nvprod4540038v/M83605"
+    },
+    "nike_url": {
+      "title": "Url",
+      "usage": "You entered a wrong url make sure to use a valid url from Nike.com\nexample: https://www.nike.com/t/air-jordan-xxxix-lumi%C3%A8re-basketball-shoes-lCjzsl/FQ0213-001"
+    },
+    "bape_url": {
+      "title": "Url",
+      "usage": "You entered a wrong url make sure to use a valid url from Bape.com\nexample: https://eu.bape.com/products/0zxtem110045n?variant=45699476029665"
+    },
+    "moncler_url": {
+      "title": "Url",
+      "usage": "You entered a wrong url make sure to use a valid url from moncler.com\nexample: https://www.moncler.com/en-gb/men/outerwear/short-down-jackets/solayan-short-down-jacket-navy-blue-J20911A00066549SK779.html"
+    },
+    "ebay_url": {
+      "title": "Url",
+      "usage": "You entered a wrong url make sure to use a valid url from ebay.com\nexample: https://www.ebay.com/itm/204988757957?..."
+    }
+  },
+  "ticketsystem" : {
+    "subscriptions": {
+      "Day": {
+        "price": 5,
+        "days": 1,
+        "stripe_price": "price_1PlCjIHiPWoJf2Ss08JtVXP3"
+      },
+      "Week": {
+        "price": 15,
+        "days": 7
+      },
+      "Forever": {
+        "price": 20,
+        "days": 99999
+      },
+      "Emulator": {
+        "price": 10,
+        "stripe_price": "price_1PlCjIHiPWoJf2Ss08JtVXP3"
+      },
+      "Paper Receipts": {
+        "price": 20,
+        "stripe_price": "price_1PlCjIHiPWoJf2Ss08JtVXP3"
+      },
+      "Full Package": {
+        "price": 40,
+        "stripe_price": "price_1PlCjIHiPWoJf2Ss08JtVXP3"
+      }
+    },
+    "category": 1306352802116927558
+  },
+  "color": "#9966cc",
+  "honeypot_channel": 1270132381440933898,
+  "notification_channel": 1295862608808771626,
+  "purchase_channel": 1295862117487874098,
+  "gen_logs_channel": 1295862732175835186,
+  "vouch_channel": 1295862776970874992,
+  "updates_channel": 1276562812994453665,
+  "images_channel": 1255986097587228682,
+  "emojis": {
+    "honeypot": 1270134553972838411,
+    "arrow_icon": 1293598631881998428,
+
+    "stripe_icon": 1269821118336729088,
+    "paypal_icon": 1269763451547553884,
+    "applepay_icon": 1269760691158388856,
+    "google_pay_icon": 1269760182796156969,
+    "ideal_icon": 1270773463447109694,
+    "blik_icon": 1270774011336593459,
+    "link_icon": 1270774910548971520,
+    "mobile_pay_icon": 1270775646083219498,
+
+    "stockx": 1269821118336729088,
+    "apple": 1269821118336729088,
+    "goat": 1269821118336729088,
+    "farfetch": 1269821118336729088,
+    "louisvuitton": 1269821118336729088,
+    "nike": 1269821118336729088,
+    "bape": 1269821118336729088,
+    "moncler": 1269821118336729088,
+    "ebay": 1269821118336729088,
+    "offwhite": 1269821118336729088,
+    "prada": 1269821118336729088,
+    "balenciaga": 1269821118336729088,
+    "supreme": 1269821118336729088,
+    "dior": 1269821118336729088,
+    "amazon": 1269821118336729088,
+    "grailed": 1269821118336729088,
+    "grailpoint": 1269821118336729088,
+    "dyson": 1269821118336729088,
+    "sephora": 1269821118336729088
+  },
+  "example_receipts": {
+    "apple.png": "Apple.com",
+    "goat.png": "GOAT.com",
+    "stockx_delivered.png": "StockX.com Delivered",
+    "stockx_ordered.png": "StockX.com Ordered",
+    "stockx_verified.png": "StockX.com Verified"
+  },
+  "guild": 1295796653047025817,
+  "roles": {
+    "access": 1270381860857319589
+  }
+}

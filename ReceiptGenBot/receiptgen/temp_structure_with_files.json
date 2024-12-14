@@ -1,0 +1,43 @@
+{
+    "templates": [
+        "apple.html",
+        "balenciaga.html",
+        "bape.html",
+        "dior.html",
+        "ebay.html",
+        "email.html",
+        "farfetch.html",
+        "goat.html",
+        "lv.html",
+        "moncler.html",
+        "nike.html",
+        "offwhite.html",
+        "prada.html",
+        "stockx_new_delivered.html",
+        "stockx_new_ordered.html",
+        "stockx_new_verified.html",
+        "supreme.html"
+    ],
+    "__pycache__": [
+        "database.cpython-310.pyc",
+        "input_validator.cpython-310.pyc",
+        "receiptgen.cpython-310.pyc",
+        "ticketsystem.cpython-310.pyc",
+        "utils.cpython-310.pyc",
+        "__init__.cpython-310.pyc"
+    ],
+    "root_files": [
+        "config.json",
+        "database.py",
+        "emails.txt",
+        "folder_structure_with_files.json",
+        "input_validator.py",
+        "receiptgen.py",
+        "scrape_data.json",
+        "send_restore_emails.py",
+        "test.py",
+        "ticketsystem.py",
+        "utils.py",
+        "__init__.py"
+    ]
+}
