@@ -4,4 +4,4 @@ This is an reupload of Amethyx Receipt Bot from their discord.
 # THIS IS FOR EDUCATIONAL PURPOSES ONLY! 
 I WILL NOT TELL U HOW TO SET IT UP!
 # ALL CREDITS GOES TO [AMETHYX DEVS](https://amethyx.net/)
-If u want me to take it down messsage me on discord @kilerekk.
+If u want me to take it down messsage me on discord @fv6g
